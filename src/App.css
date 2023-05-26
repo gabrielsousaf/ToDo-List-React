@@ -88,6 +88,10 @@ input, select{
   width: 100%;
 }
 
+select{
+  cursor: pointer;
+}
+
 .filter,
 .search {
   border-bottom: 1px solid #555;

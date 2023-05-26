@@ -1,4 +1,12 @@
+import PropTypes from 'prop-types';
+
 const Todo = ({ todo, removeTodo, completeTodo }) =>{
+    Todo.propTypes = {
+        todo: PropTypes.string.isRequired,
+        removeTodo: PropTypes.func.isRequired,
+        completeTodo: PropTypes.func.isRequired
+    };
+
     return(
         <div
             className='todo' 
