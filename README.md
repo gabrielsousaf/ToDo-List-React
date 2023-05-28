@@ -1,22 +1,21 @@
 <h1 align="center" width:100%>
-   
-![Game Secret Word - Google Chrome 2023-05-11 20-34-40](https://github.com/gabrielsousaf/Secret-Word/assets/121953504/7d673a74-7679-43de-95a1-7fb23d07dc57)
+  
+![Todo List React - Google Chrome 2023-05-28 15-25-50](https://github.com/gabrielsousaf/Todo-List-React/assets/121953504/9ea46145-a88f-4e5c-b549-8d759dade1a2)
 ![Design_sem_nome-removebg-preview](https://github.com/gabrielsousaf/Todo-List-React/assets/121953504/19028900-5437-49bd-90cf-b349f95aa0a6)
 
  
 
 # 📱 Secret Word.
 > * Esse repositório tem como objetivo principal apresentar meus estudos e aplicar em projetos pessoais em React.
-> * Jogo de adivinhação de palavras simples desenvolvido em React.
+> * Lista de tarefas feito em React.
   
 
 ## ⚙ Descrição do projeto.
-> * Escolha aleatória da categoria e da palavra a ser adivinhada.<br>
-> * Processamento da letra escolhida pelo jogador, verificando se ela já foi escolhida anteriormente e se está contida na palavra a ser adivinhada.<br>
-> * Reinício do jogo com nova palavra após o jogador acertar todas as letras da palavra atual.<br>
-> * Verificação da condição de vitória ou de derrota do jogador.<br>
-> * Reinício do jogo após a derrota do jogador.  
-
+> * Permite adicionar novas tarefas, marcar como concluidas e excluir a mesma.<br>
+> * Permite filtrar as tarefas com base em seu status (todas, completas ou incompletas).<br>
+> * Permite ordenar as tarefas em ordem alfabética (ascendente ou descendente).<br>
+> * Possui uma barra de pesquisa para pesquisar tarefas com base no texto digitado.
+ 
 
 ## ☕ Tecnologias Usadas
 
