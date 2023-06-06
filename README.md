@@ -35,9 +35,9 @@ No diretório do projeto, você pode executar:
 ## `npm i`:
 > Instalar as dependências listadas no arquivo package.json do projeto.
 
-## `npm start`: 
+## `npm run dev`: 
 > Executa o aplicativo em modo de desenvolvimento.
-> Abra http://localhost:3000 para visualizá-lo no navegador.
+> Abra http://localhost para visualizá-lo no navegador.
 > A página será recarregada quando você fizer alterações.
 > Você também pode ver quaisquer erros de lint no console.
 
